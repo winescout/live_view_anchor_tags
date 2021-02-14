@@ -20,4 +20,5 @@ However,  If you visit these links, they will not scroll to the appropriate ```<
 
 
 ## More discussion
-There is a related discussion going on regarding live_redirect and friends maintaining scroll possition in the back button behavior. [Pull Request 1256](https://github.com/phoenixframework/phoenix_live_view/pull/1256)
+* There is a related discussion going on regarding live_redirect and friends maintaining scroll possition in the back button behavior. [Pull Request 1256](https://github.com/phoenixframework/phoenix_live_view/pull/1256)
+* And this bug report laying out the same issue.  [Issue 1204](https://github.com/phoenixframework/phoenix_live_view/issues/1204)
