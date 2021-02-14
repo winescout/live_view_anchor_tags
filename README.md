@@ -17,3 +17,7 @@ However,  If you visit these links, they will not scroll to the appropriate ```<
 * [`localhost:4000/#section-3`](http://localhost:4000/#section-3) 
 * [`localhost:4000/#section-4`](http://localhost:4000/#section-4) 
 * [`localhost:4000/#section-5`](http://localhost:4000/#section-5) 
+
+
+## More discussion
+There is a related discussion going on regarding live_redirect and friends maintaining scroll possition in the back button behavior. [Pull Request 1256](https://github.com/phoenixframework/phoenix_live_view/pull/1256)
